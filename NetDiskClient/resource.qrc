@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/addFile.png</file>
+        <file>images/Cancel_32x32.png</file>
+        <file>images/check.png</file>
+        <file>images/CheckBox_32x32.png</file>
+        <file>images/delete.png</file>
+        <file>images/file.png</file>
+        <file>images/folder.png</file>
+        <file>images/logo.ico</file>
+        <file>images/search.png</file>
+        <file>images/share.png</file>
+        <file>images/transmit.ico</file>
+        <file>face/btn_avatar_a88.png</file>
+        <file>tb/ysxs.png</file>
+    </qresource>
+</RCC>
